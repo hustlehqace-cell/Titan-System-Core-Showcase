@@ -24,13 +24,8 @@ Additional technical walkthroughs or selected code samples can be provided upon 
 
 
 
-![AI Coaching Interface](screenshots/ai-coach.png)
+### AI Coaching Interface
 
- Main Dashboard
-![Main Dashboard](screenshots/dashboard.png)
+LLM-powered coaching interface integrated into Titan System Core, designed to provide structured responses while optionally incorporating user training metrics.
 
-### Machine Learning Prediction
-![Machine Learning Prediction](screenshots/ml-prediction.png)
-
-### Analytics / Data Insights
-![Analytics Dashboard](screenshots/analytics.png)
+![AI Coaching Interface](./screenshots/ai-coach.png)
