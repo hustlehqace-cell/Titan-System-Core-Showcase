@@ -14,8 +14,23 @@ A full-stack software project combining web development, backend services, datab
 - Git & GitHub
 - AI/LLM APIs
 
-## Project Overview
+ ## Project Overview
 
 Titan System Core explores the integration of modern software engineering, artificial intelligence, automation, data processing, and predictive systems within a unified application.
 
-The production source code is maintained in a private repository to protect proprietary implementation details. Selected code samples, screenshots, and a project walkthrough can be provided upon request.
+The production source code is maintained in a private repository to protect proprietary implementation details. This public showcase includes selected screenshots and a high-level overview of the system to demonstrate the project's functionality and technical scope.
+
+Additional technical walkthroughs or selected code samples can be provided upon request.
+
+
+
+![AI Coaching Interface](screenshots/ai-coach.png)
+
+ Main Dashboard
+![Main Dashboard](screenshots/dashboard.png)
+
+### Machine Learning Prediction
+![Machine Learning Prediction](screenshots/ml-prediction.png)
+
+### Analytics / Data Insights
+![Analytics Dashboard](screenshots/analytics.png)
