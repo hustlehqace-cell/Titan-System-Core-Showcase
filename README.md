@@ -24,8 +24,3 @@ Additional technical walkthroughs or selected code samples can be provided upon 
 
 
 
-### AI Coaching Interface
-
-LLM-powered coaching interface integrated into Titan System Core, designed to provide structured responses while optionally incorporating user training metrics.
-
-![AI Coaching Interface](./screenshots/ai-coach.png)
